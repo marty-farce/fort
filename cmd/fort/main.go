@@ -1,7 +1,7 @@
 package main
 
 // #include "wrapper.h"
-// #cgo LDFLAGS: -L/opt/homebrew/opt/gfortran/lib/gcc -v
+// #cgo LDFLAGS: -v
 import "C"
 
 func main() {
